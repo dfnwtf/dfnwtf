@@ -4,7 +4,7 @@ Solana builder. Currently shipping [Latrine Bot](https://latrinebot.com) - a clo
 
 ### Latrine Bot
 
-Cloud-only Pump.fun automation: claim creator fees, buy the token back, drop the proceeds to holders by tier rules. No CLI, no local node, no scripts to maintain.
+Cloud-only Pump.fun automation for projects that want buybacks and holder airdrops without needing coding knowledge. The bot claims creator fees, buys the token back, splits the pool, and drops rewards to holders by tier rules. Setup is handled through a simple dashboard - if you can fill in basic project details, you can launch it.
 
 - **Site:** [latrinebot.com](https://latrinebot.com)
 - **Dashboard:** [latrinebot.com/app](https://latrinebot.com/app)
